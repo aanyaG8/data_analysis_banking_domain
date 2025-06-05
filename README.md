@@ -4,7 +4,7 @@ This repository showcases a Banking Risk Analysis project where I utilized Power
 
 ------
 
-## **🎯 Project Objective**
+# **🎯 Project Objective**
 
 To analyze customer financial behavior and identify risk-prone customers based on loans, deposits, income, credit history, and demographic features. The project helps financial institutions make data-driven decisions to reduce default risk and improve lending policies.
 
