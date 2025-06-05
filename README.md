@@ -1,16 +1,16 @@
-🏦 Banking Risk Analysis Dashboard
+# **🏦 Banking Risk Analysis Dashboard**
 
 This repository showcases a Banking Risk Analysis project where I utilized Power BI, SQL, and Python (Jupyter Notebook) to perform a complete end-to-end analysis on customer banking data to identify and visualize potential financial risks.
 
 ------
 
-🎯 Project Objective
+## **🎯 Project Objective**
 
 To analyze customer financial behavior and identify risk-prone customers based on loans, deposits, income, credit history, and demographic features. The project helps financial institutions make data-driven decisions to reduce default risk and improve lending policies.
 
 ------
 
-🛠️ Tools & Technologies Used
+## **🛠️ Tools & Technologies Used**
 
 Power BI – Dashboard creation, DAX measures, and KPIs
 
@@ -22,7 +22,7 @@ Python-SQL Connector – Integrated dataset directly from database to Jupyter No
 
 ------
 
-🧩 Project Workflow
+## **🧩 Project Workflow**
 
 1. Data Loading & Cleaning
    
@@ -87,7 +87,7 @@ Cross-analysis of risk vs age, properties, and loan balance
 
 Used calculated columns to flag risk levels
 
-📊 Key KPIs Visualized
+4. 📊 Key KPIs Visualized
 
 Loan-to-Deposit Ratio
 
