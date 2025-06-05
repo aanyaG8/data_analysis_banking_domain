@@ -2,6 +2,13 @@
 
 This repository showcases a Banking Risk Analysis project where I utilized Power BI, SQL, and Python (Jupyter Notebook) to perform a complete end-to-end analysis on customer banking data to identify and visualize potential financial risks.
 
+## 📊 Power BI Dashboard Report
+
+View the full dashboard PDF here:
+
+👉 [Power BI Dashboard Pages PDF](./data_analysis_banking_domain/PowerBl_dashboard_pages.pdf)
+
+
 ------
 
 # **🎯 Project Objective**
