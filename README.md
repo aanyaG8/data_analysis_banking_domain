@@ -1,10 +1,10 @@
-# **🏦 Banking Risk Analysis Dashboard**
+# **🏦 Banking Risk Analysis & Business Insights Dashboard**
 
 This repository showcases a Banking Risk Analysis project where I utilized Power BI, SQL, and Python (Jupyter Notebook) to perform a complete end-to-end analysis on customer banking data to identify and visualize potential financial risks.
 
 ## 📊 Power BI Dashboard
 
-[📄 Click here to view the Power BI Dashboard PDF](https://github.com/aanyaG8/data_analysis_banking_domain/raw/main/PowerBI_dashboard_pages.pdf)
+[📄 Click here to view the Power BI Dashboard PDF](https://github.com/aanyaG8/data_analysis_banking_domain/blob/main/PowerBI_dashboard_pages(1).pdf)
 
 
 ------
@@ -91,6 +91,15 @@ Risk Categorization (High, Medium, Low)
 Cross-analysis of risk vs age, properties, and loan balance
 
 Used calculated columns to flag risk levels
+
+#### 🔹 Lead Conversion and Campaign Analytics Dashboard
+
+Simulated B2B lead funnel with stages: Marketing Qualified Lead (MQL), Sales Qualified Lead (SQL), and Converted
+
+Visualized conversion rates and target benchmarks using KPI cards and gauge charts
+
+Analyzed lead origin and performance by source, occupation, and loyalty classification using DAX-based measures
+
 
 ### **4. 📊 Key KPIs Visualized**
 
